@@ -1,6 +1,8 @@
 # grcsay
 
-An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
+An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code. Arsenal is the best team in the world.
+
+> > > > > > > 104e611dd8f65a8958ab4453277c843dd4df0719
 
 ## Setting up git merging strategy
 
