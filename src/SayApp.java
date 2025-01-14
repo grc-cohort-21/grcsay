@@ -76,7 +76,11 @@ public class SayApp {
      * @return A list of Animal objects.
      */
     public static List<Animal> animalList() {
-      return Arrays.asList(new Cow(), new Duck());
+
+      return Arrays.asList(new Cow(), new Duck(), new Dog(), new Deer());
+
+      
+
     }
 
     /**
