@@ -1,3 +1,6 @@
+# partner B change
+This is partner B's change
+
 # grcsay
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
 
