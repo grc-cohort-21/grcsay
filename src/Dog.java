@@ -5,7 +5,8 @@
  * 
  * dog art sourced from https://www.asciiart.eu/animals/birds-water
  */
-class Dog implements Animal {
+class Dog implements Animal 
+{
     /**
      * Returns the ASCII art representation of the dog.
      *
