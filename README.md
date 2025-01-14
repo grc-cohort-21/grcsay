@@ -1,6 +1,9 @@
 # grcsay
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README file before reading the Java code.
 
+# Working together
+All partners should work together! It'll be fun! Good luck! Don't be afraid to ask any questions.
+
 ## Setting up git merging strategy
 1. Each partner should run these commands on their own terminal. DO NOT SKIP THIS PART!!!
     ```
