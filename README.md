@@ -74,6 +74,11 @@ We will first practice making changes that do not trigger a merge conflict. In g
 We will now artificially trigger a merge conflict. When we follow good git practices (small, frequent commits, pulling frequently) these won't happen as often. But they will happen time to time! In this part we'll get experience in resolving them once they arise.
 
 1. Have BOTH Partner A and Partner B edit the below line. Each person should make it say something different.
+
+    ```
+    Arsenal is the best team in the world!
+    ```
+
    ```
    Conflict be worked on. To fixed Changes.
    ```
