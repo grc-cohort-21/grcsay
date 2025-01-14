@@ -1,3 +1,6 @@
+# partner B change
+This is partner B's change
+
 # grcsay
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
 
@@ -32,7 +35,7 @@ We will first practice making changes that do not trigger a merge conflict. In g
         ```
         git pull
         ```
-    1. Make any change to the README and save it.
+    1. Make any change to the README and save it. This is the change.
     1. Check that the change shows up in red (shows as unstaged) when asking for the status.
         ```
         git status
@@ -67,7 +70,8 @@ We will now artificially trigger a merge conflict. When we follow good git pract
 
 1. Have BOTH Partner A and Partner B edit the below line. Each person should make it say something different.
     ```
-    EDIT THIS LINE
+    Efren "Bata" Reyes
+    partner a is awesome
     ```
 1. Have BOTH Partner A and Partner B add, commit, and push the changes. You can refer to the above steps for a refresher on how to add/commit/push. One of the partners will get an error saying that their changes can't be pushed. This is OK and expected. Today we are practicing how to resolve this error.
 1. Have the error partner pull the other partner's changes:
