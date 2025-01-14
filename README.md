@@ -3,6 +3,8 @@ An exercise for collaborating with git / GitHub. Please read the directions CARE
 
 I MADE THIS CHANGE!
 
+Well I made this one!
+
 ## Setting up git merging strategy
 1. Each partner should run these commands on their own terminal. DO NOT SKIP THIS PART!!!
     ```
