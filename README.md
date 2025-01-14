@@ -9,7 +9,7 @@ An exercise for collaborating with git / GitHub. Please read the directions CARE
     ```
     This will tell git to perform fast forwards when possible, never rebase, and create merge commits when necessary. We will not cover the differences between these in-depth in class, but feel free on your own time to research them using search engines or AI if you're interested. Explore your curiosity!
 
-## Setup project (PLEASE WORK!)
+## Setup project (PLEASE WORK!)(Another Change)
 1. Choose one partner to be Partner A, one partner to Partner B. (Change made)
 1. Have ONLY Partner A fork this repository. PARTNER B SHOULD NOT FORK.
 1. Have Partner A add Partner B as a collaborator on their fork. Follow [these directions](https://docs.github.com/en/enterprise-server@3.10/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository).
