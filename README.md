@@ -9,8 +9,8 @@ An exercise for collaborating with git / GitHub. Please read the directions CARE
     ```
     This will tell git to perform fast forwards when possible, never rebase, and create merge commits when necessary. We will not cover the differences between these in-depth in class, but feel free on your own time to research them using search engines or AI if you're interested. Explore your curiosity!
 
-## Setup project
-1. Choose one partner to be Partner A, one partner to Partner B.
+## Setup project (Another Change) 
+1. Choose one partner to be Partner A, one partner to Partner B. (Change made)
 1. Have ONLY Partner A fork this repository. PARTNER B SHOULD NOT FORK.
 1. Have Partner A add Partner B as a collaborator on their fork. Follow [these directions](https://docs.github.com/en/enterprise-server@3.10/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository).
 1. Have the Partner A send the URL of their repository to Partner B.
@@ -32,7 +32,7 @@ We will first practice making changes that do not trigger a merge conflict. In g
         ```
         git pull
         ```
-    1. Make any change to the README and save it.
+    1. Make any change to the README and save it. (Changes)
     1. Check that the change shows up in red (shows as unstaged) when asking for the status.
         ```
         git status
@@ -67,7 +67,7 @@ We will now artificially trigger a merge conflict. When we follow good git pract
 
 1. Have BOTH Partner A and Partner B edit the below line. Each person should make it say something different.
     ```
-    EDIT THIS LINE
+    Line Edited
     ```
 1. Have BOTH Partner A and Partner B add, commit, and push the changes. You can refer to the above steps for a refresher on how to add/commit/push. One of the partners will get an error saying that their changes can't be pushed. This is OK and expected. Today we are practicing how to resolve this error.
 1. Have the error partner pull the other partner's changes:
