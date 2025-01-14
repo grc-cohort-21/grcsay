@@ -32,7 +32,7 @@ We will first practice making changes that do not trigger a merge conflict. In g
         ```
         git pull
         ```
-    1. Make any change to the README and save it.
+    1. Make any change to the README and save it. (Changes)
     1. Check that the change shows up in red (shows as unstaged) when asking for the status.
         ```
         git status
