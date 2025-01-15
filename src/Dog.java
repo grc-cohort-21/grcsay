@@ -1,9 +1,9 @@
 /**
- * The Cow class represents a cow and provides its ASCII art representation.
+ * The Dog class represents a cow and provides its ASCII art representation.
  * This class implements the Animal interface and overrides the getAnimalArt 
  * and toString methods.
  * 
- * Cow by Tony Monroe. See license file for more details.
+ * By Maija Haavisto https://www.asciiart.eu/animals/dogs
  */
 class Dog implements Animal {
 
@@ -14,18 +14,18 @@ class Dog implements Animal {
    */
   @Override
   public String getAnimalArt() {
-        return "        \\   ^__^\n" +
-               "         \\  (oo)\\_______\n" +
-               "            (__)\\       )\\/\\\n" +
-               "                ||----w |\n" +
-               "                ||     ||";
+        return "        \\   .\n" +
+               "         \\  ..^____/\n" +
+               "            `-. ___ )\n" +
+               "              ||   ||\n";
+               
     }
 
   /**
    * Returns the name of the animal ("dog").
    * This method overrides the toString method to return the name of the cow.
    *
-   * @return The string "cow" representing the name of the animal.
+   * @return The string "dog" representing the name of the animal.
    */
   @Override
   public String toString() {
