@@ -27,7 +27,7 @@ An exercise for collaborating with git / GitHub. Please read the directions CARE
 
 ## Making a change to the README
 We will first practice making changes that do not trigger a merge conflict. In general, this is what we hope to happen!
-1. Partner A will make changes first. ONLY PARTNER A SHOULD DO THESE SUB STEPS to add, commit, and push the changes.
+1. Partner A will make changes first. ONLY PARTNER A SHOULD DO THESE SUB STEPS to add, commit, and push the changes. (THIS IS MY CHANGE!!!!!! WOOAAAAHHHHHHH!!!!!)
     1. Do a git pull. You should get a message saying you're up to date.
         ```
         git pull
