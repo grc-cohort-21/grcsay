@@ -3,7 +3,7 @@
  * Classes implementing this interface should provide their specific animal artwork
  * and override the toString method to return the name of the animal.
  */
-interface Animal {
+public interface Animal {
 
   /**
    * Returns the ASCII art representation of the animal.
